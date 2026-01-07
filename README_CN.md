@@ -83,16 +83,16 @@ npm run dev
 
 ## 环境变量
 
-`BASEMULTI_KEY` - 用于身份验证的密钥。
-`NEXT_PUBLIC_URL` - Basemulti 实例的 URL。
-`DB_DRIVER` - 要使用的数据库驱动程序。
-`DB_DATABASE` - SQLite 数据库文件。（可选）
-`DB_HOST` - 数据库主机。（可选）
-`DB_PORT` - 数据库端口。（可选）
-`DB_USER` - 数据库用户。 （可选）
-`DB_PASSWORD` - 数据库密码。（可选）
-`DB_DATABASE` - 数据库名称。（可选）
-`NEXT_PUBLIC_DISABLE_PROVIDERS` - 禁用的驱动程序。（可选）
+`BASEMULTI_KEY` - 用于身份验证的密钥。  
+`NEXT_PUBLIC_URL` - Basemulti 实例的 URL。  
+`DB_DRIVER` - 要使用的数据库驱动程序。  
+`DB_DATABASE` - SQLite 数据库文件。（可选）  
+`DB_HOST` - 数据库主机。（可选）  
+`DB_PORT` - 数据库端口。（可选）  
+`DB_USER` - 数据库用户。 （可选）  
+`DB_PASSWORD` - 数据库密码。（可选）  
+`DB_DATABASE` - 数据库名称。（可选）  
+`NEXT_PUBLIC_DISABLE_PROVIDERS` - 禁用的驱动程序。（可选）  
 
 ## 🤝 贡献
 
